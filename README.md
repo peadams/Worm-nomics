@@ -1,5 +1,5 @@
 # Worm-nomics
-Workflow, scripts and analyses described in Adams et al 2022
+Workflow, scripts and analyses described in Adams et al 2023
 
 Paula E Adams, Victoria K Eggers, Joshua D Millwood, John M Sutton, Jason Pienaar, Janna L Fierst, Genome Size Changes by Duplication, Divergence, and Insertion in Caenorhabditis Worms, Molecular Biology and Evolution, Volume 40, Issue 3, March 2023, msad039, https://doi.org/10.1093/molbev/msad039
 
